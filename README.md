@@ -6,3 +6,4 @@
 - Merge code locally 
 - Create PR ( other two to master )
 - Solve conflict
+- git pull
