@@ -8,9 +8,14 @@ Good Evening !
 - Merge code locally 
 - Create PR ( other two to master )
 - Solve conflict
+<<<<<<< HEAD
 
 - git pull
 
 Thank You.
 
+=======
+- Good Evening !
+- Thank You.
+>>>>>>> 64880dac81958e46e73bffdb273d8eb249c33f6f
 - Thanks
