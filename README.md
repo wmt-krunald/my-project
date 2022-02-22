@@ -12,9 +12,5 @@ Thank You.
 - Good Evening !
 - Thank You.
 - Thanks
-<<<<<<< HEAD
-- Changes done, Completed...!!
-=======
 - _______
-
->>>>>>> 741a0ee5a9701a6ee7740d14e4595e427af45b33
+Hello
