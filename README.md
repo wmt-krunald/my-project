@@ -5,7 +5,6 @@ Good Evening !
 - Merge code locally 
 - Create PR ( other two to master )
 - Solve conflict
-<<<<<<< HEAD
 - github
 - Thank You.
 - git pull
