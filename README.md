@@ -6,4 +6,8 @@
 - Merge code locally 
 - Create PR ( other two to master )
 - Solve conflict
+<<<<<<< HEAD
 - git pull
+=======
+Thank You.
+>>>>>>> 47f503dd840884ca5a4a4705980929fd92c4e7de
