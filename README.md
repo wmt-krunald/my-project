@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Good Evening ! 
-=======
 Good Evening !
 revert-9-riddhi
 # Try to cover git and let me know if you've any doubt try to work in collaboration 
@@ -26,7 +24,7 @@ Thank You.
 - Hello
 - This is a demo file.
 
->>>>>>> 115ada3cb9e5f76cd9e253f154b78542a2667863
 Today is Tuesday...
 Have a nice day..!
  riddhi
+This is a modified README.md file.
