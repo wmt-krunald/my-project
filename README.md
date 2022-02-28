@@ -14,6 +14,5 @@ Thank You.
 - Thanks
 - hdfsufcgh
 
-- _______
 - Hello
 - This is a demo file.
