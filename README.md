@@ -12,7 +12,11 @@ Thank You.
 - Good Evening !
 - Thank You.
 - Thanks
+<<<<<<< HEAD
 ----- This is MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
+=======
+---- This is CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC.
+>>>>>>> f77976aa249006b0d412181a1de042a661f6869d
 - hdfsufcgh
 - Hello
 - This is a demo file.
